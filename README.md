@@ -25,7 +25,7 @@ Este repositório contém o relatório solicitado no projeto individual do Módu
 
 4- **Três Maneiras de Mostrar os Dados:**
    - Gráfico de Barras: Vantagem - Comparação direta entre trimestres; Desvantagem - Pode não evidenciar tendências temporais.
-   - Gráfico de Pizza: Vantagem - Destaca a proporção de saídas por trimestre; Desvantagem - Difícil comparar proporções entre trimestres.
+     - Gráfico de Calor: Vantagem - Destaca padrões sazonais e tendências ao longo do tempo de forma mais visual; Desvantagem - Pode ser complexo para interpretar variações específicas.
    - Gráfico de Dispersão: Vantagem - Identifica outliers e padrões específicos; Desvantagem - Complexo para interpretar tendências ao longo do tempo.
 
 5- **Melhor Visualização dos Dados:**
