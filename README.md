@@ -33,3 +33,5 @@ Este repositório contém o relatório solicitado no projeto individual do Módu
 
 6- **Narrativa Orientada por Dados para o Chefe:**
    Começaria destacando a tendência crescente na rotatividade de funcionários e sua possível causa. Em seguida, exploraria soluções potenciais com base nos insights extraídos dos dados, enfatizando a importância de reter talentos e melhorar a satisfação dos funcionários para garantir a estabilidade organizacional e o sucesso a longo prazo.
+
+   
